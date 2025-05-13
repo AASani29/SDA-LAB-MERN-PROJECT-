@@ -71,4 +71,3 @@ jobs:
           app-name: '210042129SDALAB01'
           slot-name: 'Production'
           package: .
-          
